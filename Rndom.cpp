@@ -8,3 +8,4 @@ njo
 loin
 tuk
 m
+koh
