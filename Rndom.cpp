@@ -7,4 +7,3 @@ aws
 njo
 loin
 m
-ko
