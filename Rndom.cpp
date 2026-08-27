@@ -10,7 +10,6 @@ tuk
 m
 koh
 ch
-gcg
 gfgf
 hvyg
 gcg
