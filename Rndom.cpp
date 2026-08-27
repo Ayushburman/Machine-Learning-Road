@@ -11,5 +11,4 @@ m
 koh
 ch
 gfgf
-hvyg
-gcg
+hvy
