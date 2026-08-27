@@ -574,6 +574,7 @@ The entire roadmap can be reduced to one operating loop:
 
 ⸻
 
+
 06 — FINAL RULE
 
 DO NOT SKIP FOUNDATIONS
