@@ -64,6 +64,10 @@ Acquire
     * Vectorized operations
     * Avoid unnecessary loops
 
+
+
+
+
 Signals You’re Done
 
 * You can derive gradient descent from scratch on paper.
