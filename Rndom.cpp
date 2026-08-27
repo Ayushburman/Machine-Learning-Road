@@ -4,6 +4,4 @@ asm
 sale
 aws
   prdouct
-njo
-
 m
