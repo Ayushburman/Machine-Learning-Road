@@ -2,3 +2,4 @@
 asm
   product 
 sale
+aws
