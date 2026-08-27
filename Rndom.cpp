@@ -6,7 +6,6 @@ aws
   prdouct
 njo
 loin
-tuk
 m
 koh
 ch
