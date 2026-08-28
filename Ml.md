@@ -14,6 +14,7 @@ lop
 kol
 3
 4
+nun
 5
 nin
 m
