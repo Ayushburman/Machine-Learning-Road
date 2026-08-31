@@ -5,9 +5,7 @@
 >i
 >l
 vyb
-nhbh
->
-1 
+nhb
 lop
 2
 lop
