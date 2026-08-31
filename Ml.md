@@ -13,8 +13,6 @@ kol
 3
 4
 nun
-bhb
-5
 nin
 m
 6
